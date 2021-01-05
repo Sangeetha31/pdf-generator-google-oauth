@@ -1,6 +1,6 @@
 # pdf-generator-google-oauth
 
-##How to run
+## How to run
 
 *Install dependencies*
 
